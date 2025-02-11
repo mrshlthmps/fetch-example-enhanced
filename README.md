@@ -8,4 +8,5 @@ This React/JavaScript app does a fetch of a public API to show a partial list in
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
